@@ -31,6 +31,8 @@ Its goal is to understand and implement **inheritance** in Java, learn how to **
 
 - **Java JDK 8** or higher
 - **IntelliJ IDEA** (or any other Java-compatible IDE)
+
+  
 ## Installation 🛠️
 
 **1.** Clone this repository: -> git clone
@@ -47,8 +49,6 @@ Its goal is to understand and implement **inheritance** in Java, learn how to **
 **2.** Open the project in IntelliJ IDEA.
 
 **3.** Compile the project.
-
-**4.** Run the main class to see how the different instrument types are instantiated and how the "play()" method is invoked.
 
 
 ## Contributions 🤝
